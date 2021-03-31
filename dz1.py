@@ -30,7 +30,7 @@ print('\n\t[f] - fireball\
         \n\t[s] - silence\
         \n\t[fw] - fire ward')
 
-
+print('ok')
 has_power_to_play = True
 while(has_power_to_play):
     chosenCombo = []
