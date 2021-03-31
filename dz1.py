@@ -1,5 +1,5 @@
 import random
-print("Статистика =", end=' ')
+print("Статистика = ", end=' ')
 stats = []
 attributes = 5
 for i in range(attributes):
